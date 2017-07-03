@@ -1,7 +1,37 @@
 
+
+.jumbotrone1 {
+  background-color: lightpink;
+  font-family: neuropol;
+  font-weight: bold;
+}
+
+.glyphicon.glyphicon-grain {
+    font-size: 100px;
+    }
+
+h5 {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.paragraph, .contact1, .contact2, .tabs {
+  font-size: 18px;
+}
+
+p::first-line{
+  color: red;
+  }
+
+
+img {
+  float: left;
+  margin-right: 10px;
+    }
+
 .form-inline {
   text-align: center;
-}
+  }
 
 footer {
   text-align: center;
